@@ -1,1 +1,8 @@
-.red{background-color: blue; border: 5cm; text-shadow: 2cm 3cm 2cm grey;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+body {
+    background: green;
+}
+h1 {
+    color: aliceblue;
+    text-transform: uppercase;
+    text-align: center;
+}
